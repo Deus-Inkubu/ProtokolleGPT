@@ -1,0 +1,1 @@
+# ProtokolleGPT für AutoGPT
